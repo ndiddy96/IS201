@@ -1,0 +1,36 @@
+body{
+    background-color: slategray;
+    color: black;
+}
+.listitem{
+    text-decoration: underline;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: lavender;
+}
+.funky{
+    color: lavender;
+}
+
+.black{
+    color: black;
+}
+.video{
+    left: 5px;
+}
+.pic1{
+    position: absolute;
+    right: 5px;
+    bottom: -300px;
+}
+.pic2{
+    position: absolute;
+    left: 5px;
+    top: 900px;
+}
+.pic3{
+    position: absolute;
+    left: 500px;
+}
